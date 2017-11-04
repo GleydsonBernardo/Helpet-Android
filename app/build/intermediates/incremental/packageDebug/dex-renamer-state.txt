@@ -1,0 +1,7 @@
+#Fri Nov 03 18:26:44 BRST 2017
+base.0=D\:\\Android\\Helpet-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a15eaef1655445fa6433fe49bb419b1f4fc91e88
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\Helpet-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2f3fb4ac35777693856e5ac02474b141ae0692a1\\classes.dex
+base.1=D\:\\Android\\Helpet-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2f3fb4ac35777693856e5ac02474b141ae0692a1
+file.0=D\:\\Android\\Helpet-Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a15eaef1655445fa6433fe49bb419b1f4fc91e88\\classes.dex

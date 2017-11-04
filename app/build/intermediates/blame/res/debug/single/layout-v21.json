@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\Helpet-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\eduar\\.android\\build-cache\\caf4d5253c1506a014cdf0f2b10a47b8239b20ca\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\Helpet-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\eduar\\.android\\build-cache\\caf4d5253c1506a014cdf0f2b10a47b8239b20ca\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android\\Helpet-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\eduar\\.android\\build-cache\\caf4d5253c1506a014cdf0f2b10a47b8239b20ca\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Android\\Helpet-Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\eduar\\.android\\build-cache\\caf4d5253c1506a014cdf0f2b10a47b8239b20ca\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

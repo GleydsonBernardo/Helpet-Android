@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eduar\.android\build-cache\ef3f85717587c7d2ac7cb21b86287f54344a2cf5\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\eduar\.android\build-cache\f82dff70945574f2d22631ad181b5fe3c07b7ba6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\eduar\.android\build-cache\caf4d5253c1506a014cdf0f2b10a47b8239b20ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\eduar\.android\build-cache\52b1882a263887a435eb2af5520db3719719c799\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\eduar\.android\build-cache\fe907069efaa2ca0d4a4b8a874ab6c0380b2c7ef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\eduar\.android\build-cache\eb1717c34d4be185b8de5d500c6b237c88231d1a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\eduar\.android\build-cache\968f68c60d7fc86279abec8c274b5043521cb224\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\eduar\.android\build-cache\01f8d9ff8bd969270b0c1e33f68204429e783ef4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\eduar\.android\build-cache\2359a8731ed6005b1828cfec486fba1ec110a112\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\eduar\.android\build-cache\851586e97dabd8881a264a42431cf027d8ba7b44\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\eduar\.android\build-cache\3acb4da817efa4f335cabb67ace171b641e44fd3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\eduar\.android\build-cache\4eae0541992d17c1e59d13a9990148d5798d0927\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:10:9-40
+activity#br.com.novaroma.helpet_android.presentation.Login
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:11:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:15:27-74
+activity#br.com.novaroma.helpet_android.presentation.Home
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:18:9-21:59
+	android:label
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:20:13-56
+	android:theme
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:19:13-46
+activity#br.com.novaroma.helpet_android.presentation.Register
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:22:9-25:68
+	android:label
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:24:13-60
+	android:theme
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:23:13-50
+activity#br.com.novaroma.helpet_android.presentation.RegisterAddress
+ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:27:9-30:68
+	android:label
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:29:13-68
+	android:theme
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml:28:13-57
+uses-sdk
+INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eduar\.android\build-cache\ef3f85717587c7d2ac7cb21b86287f54344a2cf5\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\eduar\.android\build-cache\f82dff70945574f2d22631ad181b5fe3c07b7ba6\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\eduar\.android\build-cache\caf4d5253c1506a014cdf0f2b10a47b8239b20ca\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\eduar\.android\build-cache\52b1882a263887a435eb2af5520db3719719c799\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\eduar\.android\build-cache\fe907069efaa2ca0d4a4b8a874ab6c0380b2c7ef\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\eduar\.android\build-cache\2c5bdb9e7a79c6cd7960765aaab3a28b8da681e5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\eduar\.android\build-cache\eb1717c34d4be185b8de5d500c6b237c88231d1a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\eduar\.android\build-cache\968f68c60d7fc86279abec8c274b5043521cb224\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\eduar\.android\build-cache\01f8d9ff8bd969270b0c1e33f68204429e783ef4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\eduar\.android\build-cache\2359a8731ed6005b1828cfec486fba1ec110a112\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\eduar\.android\build-cache\851586e97dabd8881a264a42431cf027d8ba7b44\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\eduar\.android\build-cache\3acb4da817efa4f335cabb67ace171b641e44fd3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\eduar\.android\build-cache\4eae0541992d17c1e59d13a9990148d5798d0927\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\eduar\.android\build-cache\f82dff70945574f2d22631ad181b5fe3c07b7ba6\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Helpet-Android\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\eduar\.android\build-cache\f82dff70945574f2d22631ad181b5fe3c07b7ba6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\eduar\.android\build-cache\caf4d5253c1506a014cdf0f2b10a47b8239b20ca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\eduar\.android\build-cache\52b1882a263887a435eb2af5520db3719719c799\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\eduar\.android\build-cache\fe907069efaa2ca0d4a4b8a874ab6c0380b2c7ef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\eduar\.android\build-cache\2c5bdb9e7a79c6cd7960765aaab3a28b8da681e5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\eduar\.android\build-cache\eb1717c34d4be185b8de5d500c6b237c88231d1a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\eduar\.android\build-cache\968f68c60d7fc86279abec8c274b5043521cb224\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\eduar\.android\build-cache\01f8d9ff8bd969270b0c1e33f68204429e783ef4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\eduar\.android\build-cache\2359a8731ed6005b1828cfec486fba1ec110a112\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\eduar\.android\build-cache\851586e97dabd8881a264a42431cf027d8ba7b44\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\eduar\.android\build-cache\3acb4da817efa4f335cabb67ace171b641e44fd3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\eduar\.android\build-cache\4eae0541992d17c1e59d13a9990148d5798d0927\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\eduar\.android\build-cache\f82dff70945574f2d22631ad181b5fe3c07b7ba6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\eduar\.android\build-cache\f82dff70945574f2d22631ad181b5fe3c07b7ba6\output\AndroidManifest.xml:26:9-47

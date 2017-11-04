@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\Helpet-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "D:\\Android\\Helpet-Android\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\Android\\Helpet-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home2_drawer.xml",
+        "source": "D:\\Android\\Helpet-Android\\app\\src\\main\\res\\menu\\activity_home2_drawer.xml"
+    },
+    {
+        "merged": "D:\\Android\\Helpet-Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "D:\\Android\\Helpet-Android\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    }
+]
