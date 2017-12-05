@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.novaroma.helpet_android.test" >
+    package="br.com.novaroma.helpet.test" >
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="26" />
 
     <instrumentation
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for br.com.novaroma.helpet_android"
-        android:targetPackage="br.com.novaroma.helpet_android" />
+        android:label="Tests for br.com.novaroma.helpet"
+        android:targetPackage="br.com.novaroma.helpet" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

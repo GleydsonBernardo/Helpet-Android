@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HelPet</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_complaint_register">ComplaintRegister</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="complaint">Denuncia</string>
+
+    <string-array name="titles_tab">
+        <item>Lista de denuncias</item>
+        <item>Nova Denuncia</item>
+    </string-array>
+    <string name="title_activity_animais_for_adoption">AnimaisForAdoption</string>
+    <string name="title_activity_layout_float_button">layout_float_button</string>
+</resources>

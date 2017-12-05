@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:id="@+id/layout_login_logo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_gravity="top"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/logotemp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_login_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <EditText
+            android:id="@+id/edtName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:hint="Nome"
+            android:background="@drawable/input_outline"
+            android:ems="10"
+            android:padding="10dp"
+            android:layout_marginTop="@dimen/margins"
+            android:layout_marginLeft="@dimen/margins"
+            android:layout_marginRight="@dimen/margins"
+            android:layout_marginBottom="@dimen/margins"/>
+
+        <EditText
+            android:id="@+id/edtEmail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:background="@drawable/input_outline"
+            android:ems="10"
+            android:padding="10dp"
+            android:layout_marginLeft="@dimen/margins"
+            android:layout_marginRight="@dimen/margins"/>
+
+        <EditText
+            android:id="@+id/edtPassword"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:hint="Senha"
+            android:background="@drawable/input_outline"
+            android:ems="10"
+            android:padding="10dp"
+            android:layout_marginTop="@dimen/margins"
+            android:layout_marginLeft="@dimen/margins"
+            android:layout_marginRight="@dimen/margins"
+            android:layout_marginBottom="@dimen/margins"/>
+
+        <EditText
+            android:id="@+id/edtConfirmePassword"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:hint="Confirmar senha"
+            android:background="@drawable/input_outline"
+            android:ems="10"
+            android:padding="10dp"
+            android:layout_marginLeft="@dimen/margins"
+            android:layout_marginRight="@dimen/margins"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:id="@+id/layout_Login_Button">
+
+            <Button
+                android:id="@+id/btnLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:background="@color/colorPrimary"
+                android:text="Cadastrar"
+                android:textColor="@android:color/white"
+                android:textAlignment="center"
+                android:ems="10"
+                android:layout_marginTop="@dimen/margins"
+                android:layout_marginLeft="@dimen/margins"
+                android:layout_marginRight="@dimen/margins"
+                android:layout_marginBottom="@dimen/margins"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>
